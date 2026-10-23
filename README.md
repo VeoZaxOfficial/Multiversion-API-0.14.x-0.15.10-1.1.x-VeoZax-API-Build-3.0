@@ -458,7 +458,7 @@ or just want to see it working before you dive in, watch it here:
 
 [Watch the Setup Tutorial](https://youtu.be/taupSR8oO40?si=hL2mkyajHHlnTHyY)
 
-Older version (Build 2.0)
+Download VeoZaxAPI 3.0 Build From Here
 =========================
 If you'd rather skip GitHub and grab a ready-to-use copy of the older Build 2.0 release, you can download it via MediaFire.
 
