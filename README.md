@@ -460,9 +460,11 @@ or just want to see it working before you dive in, watch it here:
 
 Download VeoZaxAPI 3.0 Build From Here
 =========================
-If you'd rather skip GitHub and grab a ready-to-use copy of the older Build 2.0 release, you can download it via MediaFire.
-
+If you'd rather skip GitHub and grab a ready-to-use copy of the new VeoZaxAPI Build 3.0 release, you can download it via MediaFire.
 [Download VeoZax API Build 3.0 (MediaFire)](https://www.mediafire.com/file/4daj3n2v8glov8f/Multiversion-API-0.14.x-0.15.10-1.1.x-VeoZax-API-Build-3.0.zip/file)
+
+Older first-build download link is here:
+[Download VeoZax API Build 2.0 (MediaFire)](https://github.com/VeoZaxOfficial/Multiversion-API-0.14.x-0.15.10-1.1.x-VeoZax-API-Build-2.0)
 
 🔗 My Socialmedia Links
 =========
