@@ -102,7 +102,7 @@ If you hit something broken, please report it, that helps a lot. And if you know
 help develop this further, fix bugs, add features, or just keep it alive long term, I'd genuinely welcome that. This was
 built solo, but it doesn't have to stay that way. Reach out on Discord if you want to get involved.
 
-# VeoZaxAPI v3 - Bug Fixes and Updates
+# VeoZaxAPI v3.0 - Bug Fixes and Updates
 
 **Multi-version PocketMine-MP API for Minecraft Pocket Edition 0.14.x, 0.15.x and 1.1.x**
 
